@@ -1,0 +1,11 @@
+xml
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Primer Sitio Web</title>
+</head>
+<body>
+  <h1>Hola Mundo</h1>
+  <p>¡Mi primer sitio en GitHub Pages!</p>
+</body>
+</html>
